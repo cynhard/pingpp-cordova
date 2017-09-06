@@ -9,7 +9,7 @@ Ping++ 是为移动端应用以及 PC 网页量身打造的下一代支付系统
 
 ## 插件安装
 ```sh
-$ cordova plugin add https://git.coding.net/pingplusplus/pingpp-cordova.git
+$ cordova plugin add https://github.com/scoolor/pingpp-cordova
 ```
 
 ### 使用方法
