@@ -11,6 +11,11 @@ Ping++ 是为移动端应用以及 PC 网页量身打造的下一代支付系统
 ```sh
 $ cordova plugin add https://github.com/scoolor/pingpp-cordova
 ```
+## ionic3 安装
+```sh
+$ cordova plugin add https://github.com/scoolor/pingpp-cordova
+$ ionic cordova plugin save //保存plugins 到 config.xml 文件
+```
 
 ### 使用方法
 ```js
@@ -41,8 +46,5 @@ Pingpp.getVersion(function(version){
 [pingpp-ios](https://github.com/PingPlusPlus/pingpp-ios)
 
 [pingpp-android](https://github.com/PingPlusPlus/pingpp-android)
-
-### 问题
-[问题](https://coding.net/u/pingplusplus/p/pingpp-cordova/topic)
 
 **关于如何使用 SDK 请参考 [开发者中心](https://www.pingxx.com/docs/index) **
