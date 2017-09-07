@@ -92,8 +92,7 @@
 		<source-file src="sdk/android/lib/pingpp/libs/x86_64/libuptsmaddon.so" target-dir="libs/x86_64"/>
 		<source-file src="sdk/android/lib/pingpp/libs/x86_64/libentryexpro.so" target-dir="libs/x86_64"/>
 		<source-file src="sdk/android/lib/pingpp/libs/x86_64/libpingpp.so" target-dir="libs/x86_64"/>
-		
-		<source-file src="sdk/android/lib/pingpp/libs/pingpp_web.html" target-dir="assets"/>		
+			
 		
 		<source-file src="sdk/android/lib/pingpp/res/drawable/pingpp_back.png" target-dir="res/drawable"/>
 		<source-file src="sdk/android/lib/pingpp/res/drawable/tips_bg.9.png" target-dir="res/drawable"/>
