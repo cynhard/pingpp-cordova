@@ -70,7 +70,6 @@
 
         <source-file src="src/android/PingppPlugin.java" target-dir="src/cordova/plugin/pingpp/"/>
         <source-file src="sdk/android/lib/pingpp/libs/alipaySdk-20170725.jar" target-dir="libs"/>
-        <source-file src="sdk/android/lib/pingpp/libs/libammsdk.jar" target-dir="libs"/>
         <source-file src="sdk/android/lib/pingpp/libs/libpingpp-2.1.12.jar" target-dir="libs"/>
         <source-file src="sdk/android/lib/pingpp/libs/UPPayAssistEx.jar" target-dir="libs"/>   
         <source-file src="sdk/android/lib/pingpp/libs/UPPayPluginExPro.jar" target-dir="libs"/>
